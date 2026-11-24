@@ -77,6 +77,9 @@ body > h1 {
     margin: auto;
 }
 
+#lista:hover{
+ transform: scale(1.05);
+}
 
 #lista p {
     background-color: white;
